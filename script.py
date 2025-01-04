@@ -7,7 +7,6 @@ API_KEY = "votre-cle-api"
 FILM_LISTE = "films.txt"
 CHEMIN_BIBLIOTHEQUE = "/chemin/vers/votre/bibliotheque"
 QUALITE_PROFIL = 0  # ID du profil de qualité dans Radarr
-QUALITE_PROFIL = {"id": 1, "nom": "HD-1080p"}  # ID et nom du profil de qualité dans Radarr
 SCAN_IMMEDIAT = True
 MONITORER = True
 
